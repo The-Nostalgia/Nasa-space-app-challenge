@@ -4,6 +4,8 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #aaaaaa;
+    background-image: url(../images/background.gif);
 }
 .navbar-brand{
     padding-bottom: 20px;
@@ -11,3 +13,8 @@ body{
  .navbar-nav{
       padding-top: 25px;
   }
+ section{
+     border: 2px solid black;
+     height:50vh;
+     width:40vw;
+ }
