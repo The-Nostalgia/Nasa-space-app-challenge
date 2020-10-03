@@ -54,7 +54,24 @@ body{
     top:-20px;
     left:20px
  }
- 
+ .sectionOne{
+     display:none;
+ }
+ .sectionTwo{
+    display:none;
+}
+.sectionThree{
+    display:none;
+}
+.sectionFour{
+    display:none;
+}
+.sectionFive{
+    display:none;
+}
+.sectionSix{
+    display:none;
+}
  @media(max-width:991px){
      .forPC{
          display: none;
