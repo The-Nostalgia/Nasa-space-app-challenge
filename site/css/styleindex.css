@@ -9,10 +9,14 @@ body{
     background-image: url(../images/background.gif);
 }
 .navbar-brand{
-    padding-bottom: 20px;
+    vertical-align: middle;
 }
  .navbar-nav{
       padding-top: 25px;
+  }
+  .navbar{
+      background-color:#6A9A1F;
+      margin-bottom: 2em;
   }
 
  .sectionOne{
@@ -32,6 +36,9 @@ body{
 }
 .sectionSix{
     display:none;
+}
+h4{
+    color: black;
 }
  @media(max-width:991px){
      .forPC{
