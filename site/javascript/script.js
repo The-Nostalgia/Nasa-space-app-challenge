@@ -72,7 +72,7 @@ buttonFour.addEventListener('click',(e)=>{
     partFour.style.display =partFour.style.display==''?'inline':'';
     partOne.style.display ='';
     partTwo.style.display ='';
-    partThree.style.display =';'
+    partThree.style.display ='';
     partFive.style.display ='';
     partSix.style.display ='';
 

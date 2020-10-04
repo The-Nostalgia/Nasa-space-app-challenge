@@ -6,7 +6,7 @@ body{
     padding: 0;
     background-color: #aaaaaa;
     color: white;
-    /* background-image: url(../images/background.gif); */
+    background-image: url(../images/background.gif);
 }
 .navbar-brand{
     padding-bottom: 20px;
@@ -37,9 +37,21 @@ body{
      .forPC{
          display: none;
      }
+     .mainImage{
+         display:none;
+     }
+     .owen{
+         display:none;
+     }
  }
  @media(min-width:992px){
     .otherThanPc{
         display: none;
+    }
+    .smallImage{
+        display: none;
+    }
+    .smallOwen{
+        display:none;
     }
 }
