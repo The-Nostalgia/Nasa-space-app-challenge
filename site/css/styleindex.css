@@ -5,6 +5,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #aaaaaa;
+    color: white;
     /* background-image: url(../images/background.gif); */
 }
 .navbar-brand{
@@ -13,9 +14,6 @@ body{
  .navbar-nav{
       padding-top: 25px;
   }
-.introduction{
-    color: white;
-}
 
  .sectionOne{
      display:none;
